@@ -11,6 +11,6 @@ Run the game by: (on windows)
 
 ## Controls
 
-WSAD - Movement
-Left, Right, Up, Down - Looking around
-Shift(i think XD) - Sneaking
+WSAD - Movement \n
+Left, Right, Up, Down - Looking around \n
+Ctrl - Sneaking \n
